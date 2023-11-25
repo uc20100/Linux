@@ -14,8 +14,6 @@
   - Скриншот SSH-подключения к установленной системе с
    запущенным mc.
 
-![Скриншот SSH-подключения к установленной системе с запущенным mc.](https://glonassgps-my.sharepoint.com/:i:/g/personal/uc20100_glonassgps_onmicrosoft_com/ERKIZRO5daRLhm7LVmTb1lsB_KQKCdrY6-hOjffLot1rjw?e=V2pnty "SSH-подключения к установленной системе с запущенным mc.")
-
 Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/Eb19ehK4-55Gj1jupdC30UcBzW2scjjNvNqthICXeIsGvw?e=bRwCVO)
 
-<img src="https://glonassgps-my.sharepoint.com/:i:/g/personal/uc20100_glonassgps_onmicrosoft_com/ERKIZRO5daRLhm7LVmTb1lsB_KQKCdrY6-hOjffLot1rjw?e=V2pnty" width="200" height="50"/>
+
