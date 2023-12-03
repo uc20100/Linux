@@ -19,6 +19,7 @@ file1. Посмотреть, какие айноды у файлов. Удали
 текстового документа: задание и команды для решения (без вывода). Формат - PDF
 (один файл на все задания).
 
-Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EdppVlsHwUpPpppgNUWTN2EB7uWyqTxekIrsZtMaGyBhhA?e=eD5afE)
+Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EdppVlsHwUpPpppgNUWTN2EB7uWyqTxekIrsZtMaGyBhhA?e=eD5afE)  
+Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EWisCYWamhJItV4NNvFVywgBYm8lmHaeoXCMw0HGSa16Lg?e=ooJkYb)
 
 
