@@ -28,7 +28,7 @@
 Текст команд, которые применялись при выполнении задания. Присылаем в формате текстового документа: задание
 и команды для решения (без вывода). Формат — PDF (один файл на все задания).
 
-Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/Eb19ehK4-55Gj1jupdC30UcBzW2scjjNvNqthICXeIsGvw?e=bRwCVO)  
-Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/ESE8WvX0HtpBmj12kad4dh8BJcX6uBk8JWEwdUQ5CZlabw?e=iQVL2x)
+Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EVVBpTHlqihLim__D5WYIy4BXaTjcu-ksJuhtpxrFyeSFw?e=pDJuCl)  
+Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/ESBK5oew1MpLlk9j4R-rrCABWUn7cSsBOZDl1VQSCtVUgA?e=WVb7Lf)
 
 
