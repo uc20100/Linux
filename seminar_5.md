@@ -19,5 +19,5 @@
 Присылаем в формате текстового документа: задание и команды для решения (без вывода).
 Формат — PDF (один файл на все задания).
 
-Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/ESRVHRFJaNFJpGtzMh7F8nkB7tuirnSAj9Uug5Da6jDHIA?e=Y2lbO4)  
-Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/ESL7EbD22LRBlkRpXAjdGqABR0XyHBF6YyebtU2f8sXuBg?e=y3BdLU)
+Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EQKLLkzQhmZBsA5c-nleFAQB4dsyNQR_j4mYQ3oE4wE0iQ?e=RlwYXg)  
+Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EdofcMN3lktLhH_3NYSedncByV70EyPLpPEGtv90DwbInQ?e=2XD1bu)
