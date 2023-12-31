@@ -18,3 +18,6 @@
 Скриншоты результата запуска контейнеров (консоль и веб-интерфейс).
 Присылаем в формате текстового документа: задание и команды для решения (без 
 вывода). Формат — один PDF файл на все задания.
+
+качать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EcB-p427PFNFuPK2T6FTJy8B1kksKdJ_9Rq8PPSP6yxnpg?e=T3yqEh)  
+Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EdQmTPoNdRpGm8Diro-hfnMBunhegNFXqQxhKIPQTgefbg?e=KgdFNL)
