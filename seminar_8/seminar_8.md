@@ -15,5 +15,5 @@
 Кодировка файлов UTF-8.
 
 
-Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EcB-p427PFNFuPK2T6FTJy8B1kksKdJ_9Rq8PPSP6yxnpg?e=T3yqEh)  
-Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EdQmTPoNdRpGm8Diro-hfnMBunhegNFXqQxhKIPQTgefbg?e=KgdFNL)
+Скачать файл в Word формате - [здесь](https://glonassgps-my.sharepoint.com/:w:/g/personal/uc20100_glonassgps_onmicrosoft_com/EfC7AFRp1-pPohIfGgQfjo4Bw8Za82kq47CEUMkepbeH-g?e=VawIZF)  
+Скачать файл в PDF формате - [здесь](https://glonassgps-my.sharepoint.com/:b:/g/personal/uc20100_glonassgps_onmicrosoft_com/EV25WI6UXmpGpm5XX33HzJsBhW0bWUzL4LuFjEi_JbfU6w?e=CiifB3)
